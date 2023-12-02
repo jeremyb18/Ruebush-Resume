@@ -15,7 +15,7 @@ I'm an aspiring Computational Physicist with extensive experience in numerical s
 
 ## Education
 
-`2022 - expected 2026`
+`2022 - expected 2025`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - **Bachelor Of Science In Physics with an Computational Emphasis**
