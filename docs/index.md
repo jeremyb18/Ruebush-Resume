@@ -8,7 +8,7 @@ I'm an aspiring Computational Physicist with extensive experience in numerical s
 <div id="webaddress">
 <a href="rue22003@byui.edu">rue22003@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://github.com/jeremyb18">GitHub</a>
+| <a href="https://github.com/jeremyb18/Ruebush-Resume">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
