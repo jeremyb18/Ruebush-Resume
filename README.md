@@ -1,69 +1,60 @@
----
-layout: cv
-title: Jeremy Ruebush's Resume
----
-# Jeremy Ruebush
-I'm an aspiring Computational Physicist with extensive experience in numerical simulations and computational modeling
+# md-resume
 
-<div id="webaddress">
-<a href="rue22003@byui.edu">rue22003@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://github.com/jeremyb18">GitHub</a>
-</div>
+A resume maintained in plain text and rendered to HTML and PDF using CSS.
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
+For more details, see the [markdown-csv project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
 
-## Education
+***
 
-`2022 - expected 2025`
-__Brigham Young University - Idaho__, Rexburg, ID
+## Customization
 
-- **Bachelor Of Science In Physics with an Computational Emphasis**
-  - `4.0 GPA`
+Simply [fork the mdresume repo](https://github.com/byuids-resumes/mdresume)
 
+![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
-## Related Experience
+and edit the `index.md` file in the `docs` folder [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
 
-### Skills
+![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
 
-- Python - numpy, sympy, pandas
-- C#
-- Mathematica
-- Arduino
+adding your skills, jobs and education.
 
-### Projects
+![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
 
-- **Physical Simulation**
-    - Magnus Force Simulation, 
-    - 2D Ball Bouncing that accounts for the moment of inertia and angular forces, 
-    - Eletric Circuit Solver for a double capacitor problem. 
-- **Arduino**
-    - Fingerprint reader 
-    - Thermostate controler
+## Distribution
 
-### Internships
+To transform your plain text resume into a beautiful and shareable HTML page, you have two options:
 
-`January 2020 - March 2020`
-__EJ Engineering__, Tooele, UT
+### I. Use Github Pages to publish it online
 
-- Learned how to quickly and intelligently use a computer. Gained experience working on a more professional basis
-- Used solidworks to design parts
+1. Edit or move your resume to the `index.md` file in the `docs` folder.
+2. Go to settings > GitHub pages to make the changes shown.
 
-## Service and Work History
+![](docs_setup.png)
 
-`2022-2023`
-__Tutor PH135__, BYUI
+3. Head to *yourusername*.github.io/mdresume to see your resume live.
 
-`August 2020 - Abril 2022`
-__Missionary__, Argentina
+Any change you want to make to your CV from then on would have to be done in the `docs` folder and will be immediately rendered by Github Pages.
 
-`May 2020 - August 2020`
-__Digital Print Machine Operator__, HandStands Promo
+## Styling
 
+The included CSS will render your CV in two styles:
+s
+1. `kjhealy` the original default, inspired by [kjhealy's vita
+template](https://github.com/kjhealy/kjh-vita).
+2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
+  right aligned.
 
+To change the default style, simply change the variable in the
+`_config.yml` file.
 
-<!-- ### Footer
+Any other styling is possible. More CSS style contributions and forks are welcome!
 
-Last updated: May 2023 -->
+### Author
 
+Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
 
+![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
+
+### License
+
+[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
