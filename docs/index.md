@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Jeremy Ruebush
+title: Resume
 ---
 ## Jeremy Ruebush
 I'm an aspiring Computational Physicist with extensive experience in numerical simulations and computational modeling
