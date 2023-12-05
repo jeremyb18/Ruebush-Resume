@@ -34,9 +34,9 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ### Projects
 
 - **Physical Simulation**
-    - Magnus Force Simulation, 
-    - 2D Ball Bouncing that accounts for the moment of inertia and angular forces, 
-    - Eletric Circuit Solver for a double capacitor problem. 
+    - Magnus Force Simulation, using Euler's method in python.
+    - 2D Ball Bouncing that accounts for the moment of inertia and angular forces, using Euler's method in python with classes and functions.
+    - Eletric Circuit Solver for a double capacitor problem, using Sympy and Numpy to solve systems of Equations with Eigen Values and Vectors. 
 - **Arduino**
     - Fingerprint reader 
     - Thermostate controler
